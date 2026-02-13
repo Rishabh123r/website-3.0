@@ -21,3 +21,10 @@ The project focuses on clean layout, card-based design, and proper section struc
 ---
 
 ## 📂 Project Structure
+
+ https://rishabh123r.github.io/website-3.0/
+
+ ## Contributing
+Feel free to fork this repository and submit pull requests.
+ 
+
